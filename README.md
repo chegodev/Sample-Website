@@ -21,7 +21,7 @@ To use this template, follow these steps:
 
 1. Clone the repo:
     ```
-    git clone https://github.com/chegodev/testimonials-grid-section-main.git
+    https://github.com/chegodev/Sample-Website.git
     ``` 
 
 2. Customize the content as needed for your specific project.
